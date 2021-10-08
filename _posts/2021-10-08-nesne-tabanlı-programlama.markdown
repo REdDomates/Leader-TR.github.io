@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2021-10-08 08:36:26 -0400
+categories: jekyll update
+---
+
 # Nesne tabanlı programlama (Object Oriented Programing)
 
 Nesne tabanlı programlama birçok dilde kullanılmaktadır. Nesne tabanlı programlama bir kod yazma tekniği veya yaklaşımıdır diyebiliriz. Hayatımızda kullandığımız nesneleri kod halinde yazıp simüle etmemizi sağlayan bir tekniktir. Örnek olarak kitap nesnesini verebiliriz. Gerçek hayatta olduğu gibi kitabın adı, türü, sayfa sayısı, baskı numarası vs. bulunur, bu özelliklere sahip kitap adında bir nesne oluştururuz. Bu nesne tabanlı programlamanın temel mantığıdır. "Herşey bir nesnedir" mantığı bulunmaktadır, yani kitaplar, arabalar, kişiler, ağaçlar vb. bir nesnedir.
