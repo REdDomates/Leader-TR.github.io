@@ -13,4 +13,5 @@ permalink: /my-url/
 
 title: Sayfada görünecek başlığı yazarız ve urlyi etkilemez.  
 date: Sayfayı oluşturduğumuz tarihi veririz. Bu hem urlyi etkiler hemde sayfa içindeki konu tarihini ve başlığın konumunu etkiler.
-permalink: Sayfanın ismini veya tarihini değiştidiğimizde url'side değişecektir. Bu durumun yaşanmamasını istiyorsak permalink ile sabit url atayabiliriz.
+permalink: Sayfanın ismini veya tarihini değiştidiğimizde url'side değişecektir. Bu durumun yaşanmamasını istiyorsak permalink ile sabit url atayabiliriz.  
+permalinke ekstradan yukarıdaki parametreleri de verebiliriz. örnek `permalik: /:categories/:date/:title/:year/:month/:day` gibi
