@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: kos
 title:  "Merhabalar!"
 date:   2021-10-08 08:36:26 -0400
 categories: jekyll update
