@@ -11,4 +11,4 @@ categories: jekyll update
 ```
 
 title: Sayfada görünecek başlığı yazarız ve urlyi etkilemez.  
-date: Sayfayı oluşturduğumuz tarihi veririz. Bu hem urlyi etkiler hemde sayfa içindeki konu tarihini etkiler.
+date: Sayfayı oluşturduğumuz tarihi veririz. Bu hem urlyi etkiler hemde sayfa içindeki konu tarihini ve başlığın konumunu etkiler.
