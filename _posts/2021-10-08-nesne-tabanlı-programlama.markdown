@@ -2,7 +2,7 @@
 layout: post
 title:  "Merhabalar!"
 date:   2021-10-08 08:36:26 -0400
-categories: jekyll update
+categories: jekyll csharp
 ---
 
 # Nesne tabanlı programlama (Object Oriented Programing)
