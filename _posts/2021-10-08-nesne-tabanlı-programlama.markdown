@@ -12,7 +12,7 @@ içerisinde Field(alan), Property(özellik) ve kapsülleme yapılarını, metotl
 Bir nesneyi tanımlamak için new operatörünü kullanırız.  
 `SınıfAdı sınıfDeğişkeni = new SınıfAdı();` şeklinde sınıftan nesne oluştururuz. Burada SınıfAdı bir referans türüdür ve sınıfDeğişkeni bu türden üretilmiş bir nesnedir.  
 Örnek:
-```C#
+```c#
 class Program
 {
     static void Main(string[] args)
@@ -63,7 +63,7 @@ Bir elemena açıklama eklemek için hemen üst satırını:
 ```
 şeklinde bir yapı ile açıklama ekleyebilirsiniz.  
 Örnek:
-```C#
+```c#
 /// <summary>
 /// Bu bir öğrenci clasıdır.
 /// </summary>
