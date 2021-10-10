@@ -27,3 +27,21 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+```c#
+class Program
+{
+    public static readonly double kdv = 0.8;
+    static void Main(string[] args)
+    {
+        double fiyat, sonuc;
+        Console.WriteLine("Fiyatı giriniz : ");
+        fiyat = Convert.ToDouble(Console.ReadLine());
+        sonuc = fiyat + (fiyat * kdv);
+        Console.WriteLine("kdv dahil fiyat = " + sonuc);
+        Console.ReadLine();
+    }
+
+}
+
+```
