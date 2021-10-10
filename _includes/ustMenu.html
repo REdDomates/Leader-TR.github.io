@@ -94,7 +94,7 @@ body {
     <div id="dropdown-content">
 
       {% for post in site.posts %}
-      {% if post.konu == "csharp" %}
+      {% if post.categories == "csharp" %}
       <a href="{{ post.url }}"><small>{{ post.title }}</small></a>
       {% endif %}
       {% endfor %}
