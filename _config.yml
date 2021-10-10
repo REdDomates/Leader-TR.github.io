@@ -32,8 +32,7 @@ lang: 'tr-TR'
 logo: "https://pixselle.com/wp-content/uploads/2020/08/kolay-resimler-13.jpg"
 # Build settings
 theme: minima
-minima:
-  skin: dark
+
 plugins:
   - jekyll-feed
 
