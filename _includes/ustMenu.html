@@ -96,7 +96,7 @@ body {
 
       {% for post in site.posts %}
       {% if post.konu == "csharp" %}
-      <a href="{{ post.url }}"><small>{{ post.konu }}</small></a>
+      <a href="{{ post.url }}"><small>{{ post.title }}</small></a>
       {% endif %}
       {% endfor %}
 
