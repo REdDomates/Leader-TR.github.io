@@ -36,6 +36,10 @@ logo: "https://pixselle.com/wp-content/uploads/2020/08/kolay-resimler-13.jpg"
 theme: minima
 
 markdown   : kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 plugins:
   - jekyll-feed
