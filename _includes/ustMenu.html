@@ -93,7 +93,9 @@ body {
       <i class="fa fa-caret-down"></i>
     </button>
     <div id="dropdown-content">
+
       {% for post in site.posts %}
+      {% if(post.konu == "csharp") %}
       <a href="{{ post.url }}"><small>{{ post.konu }}</small></a>
       {% endfor %}
 
